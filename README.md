@@ -1,3 +1,3 @@
 # zhudyblack
 MyGit
-![image](https://github.com/zhudyblack/zhudyblack/edit/master/MyMusic.gif) 
+![image](https://github.com/zhudyblack/zhudyblack/blob/master/MyMusic.gif) 
